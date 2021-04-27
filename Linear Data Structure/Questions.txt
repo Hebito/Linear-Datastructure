@@ -1,0 +1,18 @@
+﻿Write a few sentences describing when you would use a liked list in solving a problem and why you would do so
+	Linked List can be useful over Array in situation where the Upper limit is unknown. They are not fixed-size like an Array list is. In addition, Linked List
+provide easier access for new data, with the advantage of insertation and deletion without having to move addition elements over.
+
+Write a sentence or two describing the difference between a stack and a queue. 
+	Both are linear data structure but follow different types of principles. With Queues, it's data structure follows FIFO principle. 
+Which is first in, first out, this type can be thought of as a line at a drive through. The first person there get their order first, thus being the first one out.
+As for Stacks, it follows the LIFO principle; meaning Last In, First Out. This type can be exampled as the tower of hanoi. One has to grab the last put-on disk
+access the other disk underneath. This type of logic can be applied to stacks. 
+
+Describe a situation in which a developer would use a stack while writing a program. -2.5 points
+	As mention before, the tower of hanoi example in the recursion process feature the use of stack.
+
+In what situation would a developer use an array rather than a list while writing a program?
+	Arrays list are more efficient then linked-list when the developer is trying to save memory. It is easier to debug with its indexing.
+In addition, for situations where the developer knows the intended fixed-size, an array with be more optimise.
+
+
